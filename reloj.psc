@@ -4,7 +4,7 @@ Algoritmo reloj
 			Para m<-0 Hasta 59 Con Paso 1 Hacer
 				Para s<-59 Hasta 59 Con Paso 1 Hacer
 					Imprimir h, ":", m, ":", s
-				Fin Para
-			Fin Para
-		Fin Para
+				FinPara
+			FinPara
+		FinPara
 FinAlgoritmo
